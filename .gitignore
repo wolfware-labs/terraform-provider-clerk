@@ -37,3 +37,4 @@ crash.log
 # Editor/IDE
 # .idea/
 # .vscode/
+bin/
